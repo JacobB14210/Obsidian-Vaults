@@ -1,0 +1,23 @@
+# US-4: Municipality Profile
+- JSON file that will hold aspects of a municipality profile
+	- Name
+	- URL
+	- Province
+	- Contact information
+		- Email
+		- Phone number
+	- Demographic
+		- Age
+		- Population
+		- Community
+	- Economy
+		- Income level
+		- Minimum wage
+		- Commercial tax rates
+	- Geographic
+		- 
+	- Version and update tracking for bylaws
+- Should have basic searching and filtering abilities by province, business type, and scoring
+# Notify Changes in Websites/Legal Documents
+- Give a link and check every once in a while
+- 

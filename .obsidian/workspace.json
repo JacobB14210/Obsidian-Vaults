@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "9a212996cf0d316e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc36d923fecfb400",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc98a95916d0bb43",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36a196e800e5466d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5ec64cc669f7e7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f52735d7daad78e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5bd3b62b29dfa455",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ffd575a95dd5923c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a69aa1ac83e3d873",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8edde310af2345c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9cef21ee0e616f8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "2437ddce2e8edfb4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SER 401 Notes/Sponsor Meeting/10-27-2025.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 10-27-2025"
+            }
+          },
+          {
+            "id": "1a2d3105539520b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7451f4c928e9658f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "37a4fe1993c441e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": true,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "bc98a95916d0bb43",
+  "lastOpenFiles": [
+    "SER 401 Notes/Sponsor Meeting/10-27-2025.md",
+    "Test/Obsidian-Vault",
+    "Test",
+    "New folder",
+    "SER 401 Notes/Personal Notes.md",
+    "SER 401 Notes/Sponsor Meeting",
+    "Untitled.canvas",
+    "Untitled.base",
+    "SER 401 Notes",
+    "Welcome.md"
+  ]
+}
