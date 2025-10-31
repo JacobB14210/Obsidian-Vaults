@@ -1,0 +1,12 @@
+- Business Modeling
+	- Does the problem have an organization/process component
+	- Does the team understand the domain of the problem
+	- Does the solution make process improvements
+- Domain
+	- Understand more about application's domain
+# Business Modeling
+- The Eriksson and Penker approach:
+	- Business vision: Depict and company's goals
+	- Business process: The activities of the company and value of activities
+	- Business structure: Anything structural, such as the organizational model
+	- Business behavior: Business process participants

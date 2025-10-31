@@ -1,0 +1,12 @@
+- install/uninstall troubleshooter
+	- Used to trouble installer and uninstaller
+	- https://support.microsoft.com/en-us/topic/fix-problems-that-block-programs-from-being-installed-or-removed-cca7d1b6-65a9-3d98-426b-e9f927e1eb4d
+- BlueScreenView
+	- Used to check details of a blue screen
+	- https://www.bleepingcomputer.com/download/bluescreenview/
+- DiskGenius
+	- Used to verify integrity of drives, and migrate OS
+	- https://www.diskgenius.com/
+- Revo Uninstaller
+	- Used to clean uninstall applications
+	- https://www.revouninstaller.com/
