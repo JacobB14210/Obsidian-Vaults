@@ -108,52 +108,6 @@
               "icon": "lucide-list",
               "title": "Outline of 10-27-2025"
             }
-          },
-          {
-            "id": "1a2d3105539520b9",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "7451f4c928e9658f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "37a4fe1993c441e2",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
           }
         ]
       }
@@ -173,7 +127,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc98a95916d0bb43",
+  "active": "f9cef21ee0e616f8",
   "lastOpenFiles": [
     "SER 401 Notes/Sponsor Meeting/10-27-2025.md",
     "Test/Obsidian-Vault",
