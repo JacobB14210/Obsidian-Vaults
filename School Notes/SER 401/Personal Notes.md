@@ -6,19 +6,32 @@
 		- Email
 		- Phone number
 	- Demographic
-		- Age
+		- Average age
 			- For open and close times
 		- ethnicity
-		- Socioeconomic
-			- Other places to eat at
-			- Neighboring restaurants
+		- House hold size
+		- Population
+		- Education Level
+		- Data Sources
+			- U.S. Census Bureau – data.census.gov
+			- City-Data.com
+			- Esri Demographics: Maps and analysis layers
+			- Open Data Portals: Specific municipal datasets
 	- Geographic
+		- City
 		- Province
-		- Parks with events
-		- Schools nearby?
-		- Business office nearby?
-		- Competition?
-		- Gas station or Charging station
+		- Region
+		- Pop Density Per Sq Mile
+		- Area sq miles
+		- Latitude
+		- Longitude
+		- Adjacent Municipalities
+		- Data Sources
+			- OpenStreetMap: Coordinates
+			- US Census Bureau TIGER/Line: Municipality boundaries, area
+			- NOAA Climate Data Online: Temperature, precipitation, climate zones
+			- Google Maps API: Geocoding, distances, nearby features
+			- Wikipedia or City GIS portals: Elevation, nearby cities
 	- Economy
 		- Avg Income level
 		- Minimum wage
