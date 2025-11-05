@@ -1,0 +1,33 @@
+- Main concern: What should the system do?
+- Requirement: Description of one service or constraint of the system that the user desires
+	- Aimed at different audiences:
+		- User vs system
+	- Aimed at different aspects of the system:
+		- Functional vs non functional vs domain
+	- Described with different formalisms:
+		- Natural Language vs graphical vs formal methods
+- User requirements: Written primarily for system users who don't have detailed technical knowledge
+	- Managers and users: Define system
+	- Mangers: Plan system development
+	- Developers: Specify system requirements
+- System requirements: Written primarily for system developers as starting point for design
+	- Structured doc with technical descriptions of system services
+		- Adds detail
+		- Should be consistent
+	- Sometimes also used as a contract between client and contractor
+		- Tension between precision and detail (for design)
+		- and openness (for contracting)
+- Functional requirements: Defines a function of the system or one of its components
+	- How systems should respond
+	- How systems should react
+	- What system should not do
+- Non-functional requirements: Imposes constraints on the design or the implementation
+	- Cross-cutting or emergent properties
+	- Can constrain the process and the environment
+- Common phase activities
+	- Requirements elicitation
+		- What do you need?
+	- Requirements analysis
+	- Requirements validation
+		- Planning
+	- Requirements (change) management

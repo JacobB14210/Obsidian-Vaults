@@ -1,0 +1,5 @@
+- teardrop camper, off road camper, tow behind camper, rugged camper, independent trailer suspension, truck tires for camper, overland camping teardrop trailer
+- Write content about each product
+	- Short paragraphs from ai
+	- Description
+	- 

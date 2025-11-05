@@ -1,0 +1,11 @@
+# Files in Repo
+- .github
+	- If using github actions "Java and Gradle"
+- gradle
+- src
+- .gitignore
+- build.gradle
+- gradlew
+- gradlew.bat
+- README.md
+- settings.gradle

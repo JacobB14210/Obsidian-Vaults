@@ -1,0 +1,2 @@
+- Play with masonry gallery in recent top sellers, side window, and content grids
+- Find out last content for 8th box

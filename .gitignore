@@ -1,0 +1,11 @@
+# Device-specific workspace/layout
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Cache and local state
+.obsidian/cache/
+.obsidian/backup/
+.obsidian/graph.json
+
+# Optional: runtime appearance cache
+.obsidian/appearance.json

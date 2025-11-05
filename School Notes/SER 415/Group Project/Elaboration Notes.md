@@ -1,0 +1,16 @@
+- Tracker.gg
+	- Uses api calls from games to gather data
+	- Displays on website
+- royaleapi.com
+	- Analysis on different decks
+	- Problem: No public api, use thrid party api
+# Team Discussion Notes
+- Tab layout
+- Avg time for correct guess
+- Avg distance from correct
+- Sign in function
+- History of guesses
+	- Saved games
+- Country metrics
+- Leaderboard
+- Monthly Highlights
