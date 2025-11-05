@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bc36d923fecfb400",
+        "id": "0a741b3ad9bdb869",
         "type": "tabs",
         "children": [
           {
-            "id": "bc98a95916d0bb43",
+            "id": "9b37e9ad1a31259b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Universal Launcer/Personal Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Personal Notes"
             }
           }
         ]
@@ -100,66 +104,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SER 401 Notes/Sponsor Meeting/10-27-2025.md",
+                "file": "Universal Launcer/Personal Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10-27-2025"
-            }
-          },
-          {
-            "id": "1a2d3105539520b9",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "7451f4c928e9658f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "37a4fe1993c441e2",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Outline of Personal Notes"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,13 +131,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc98a95916d0bb43",
+  "active": "9b37e9ad1a31259b",
   "lastOpenFiles": [
+    "SER 401 Notes/Personal Notes.md",
+    "Universal Launcer/Personal Notes.md",
+    "Universal Launcer",
     "SER 401 Notes/Sponsor Meeting/10-27-2025.md",
     "Test/Obsidian-Vault",
     "Test",
     "New folder",
-    "SER 401 Notes/Personal Notes.md",
     "SER 401 Notes/Sponsor Meeting",
     "Untitled.canvas",
     "Untitled.base",
