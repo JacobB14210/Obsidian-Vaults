@@ -2,9 +2,6 @@
 - JSON file that will hold aspects of a municipality profile
 	- Name
 	- URL
-	- Contact information
-		- Email
-		- Phone number
 	- Demographic
 		- Average age
 			- For open and close times
@@ -12,11 +9,6 @@
 		- House hold size
 		- Population
 		- Education Level
-		- Data Sources
-			- U.S. Census Bureau – data.census.gov
-			- City-Data.com
-			- Esri Demographics: Maps and analysis layers
-			- Open Data Portals: Specific municipal datasets
 	- Geographic
 		- City
 		- Province
@@ -27,17 +19,13 @@
 		- Longitude
 		- Adjacent Municipalities
 		- Data Sources
-			- OpenStreetMap: Coordinates
-			- US Census Bureau TIGER/Line: Municipality boundaries, area
-			- NOAA Climate Data Online: Temperature, precipitation, climate zones
-			- Google Maps API: Geocoding, distances, nearby features
-			- Wikipedia or City GIS portals: Elevation, nearby cities
-	- Economy
-		- Avg Income level
-		- Minimum wage
-		- Commercial tax rates
 	- Version and update tracking for bylaws
 - Should have basic searching and filtering abilities by province, business type, and scoring
+- Data Sources
+	- Statistics Canada Web Data Service (WDS)
+	- Government of Canada Open Data Portal (CKAN API)
+	- CensusMapper API
+	- Natural Resources Canada GeoName Service API
 # Notify Changes in Websites/Legal Documents
 - Give a link and check every certain interval
 - 
