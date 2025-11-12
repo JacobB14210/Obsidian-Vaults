@@ -26,6 +26,7 @@
 	- Government of Canada Open Data Portal (CKAN API)
 	- CensusMapper API
 	- Natural Resources Canada GeoName Service API
+
 # Notify Changes in Websites/Legal Documents
 - Give a link and check every certain interval
-- 
+# US-7: 
