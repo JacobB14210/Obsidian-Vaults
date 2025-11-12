@@ -30,3 +30,6 @@
 # Notify Changes in Websites/Legal Documents
 - Give a link and check every certain interval
 # US-7: Municipality Comparison
+- display.py
+- comparison_util.py
+	- Ge List of JSONs from municipality_profile/profiles
