@@ -29,4 +29,4 @@
 
 # Notify Changes in Websites/Legal Documents
 - Give a link and check every certain interval
-# US-7: 
+# US-7: Municipality Comparison
