@@ -31,5 +31,7 @@
 - Give a link and check every certain interval
 # US-7: Municipality Comparison
 - display.py
+	- Input from user
 - comparison_util.py
-	- Ge List of JSONs from municipality_profile/profiles
+	- Get List of JSONs from municipality_profile/profiles
+	- Some format for display of two municipality profiles
