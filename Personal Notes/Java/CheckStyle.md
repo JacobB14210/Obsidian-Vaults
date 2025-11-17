@@ -10,5 +10,6 @@
         <module name="WhitespaceAround"/>
         <module name="UnusedImports"/>
     </module>
+    Testing
 </module>
 ```
