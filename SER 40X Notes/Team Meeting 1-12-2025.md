@@ -2,7 +2,9 @@
 	- Chatbot to score?
 - Research best database management software
 	- Databases with JSON file compatibility
-		- MangoDB
+		- MongoDB
+			- Look up design principles
+				- BASE
 	- Municipality Profiles
 	- Scoring
 	- Scraper settings
