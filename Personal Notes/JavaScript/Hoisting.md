@@ -1,0 +1,2 @@
+- Being able to use an interpreter to move declaration of functions, variables, or classes to the top of scope, prior to execution of the code
+- 
