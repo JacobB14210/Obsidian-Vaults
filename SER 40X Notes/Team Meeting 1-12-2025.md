@@ -1,3 +1,4 @@
+# TODO
 - Best way to use AI?
 	- Chatbot to score?
 - Research best database management software
@@ -9,3 +10,4 @@
 	- Scoring
 	- Scraper settings
 		- Layout in a JSON when it runs
+# Research
