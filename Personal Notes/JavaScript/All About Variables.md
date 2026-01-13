@@ -1,6 +1,9 @@
-# Casing convention
-- camelCasing
-- PascalCasing
-- snake_casing
-- SCREAMING_SNAKE_CASING
-# Checking variable's existence
+# JavaScript Variables
+```js
+// Create variables with let
+let message = 'Example';
+
+// Create Constants 
+// Constants cannot be reassigned
+const CONSTANT_MESSAGE = 'Constant Example';
+```
