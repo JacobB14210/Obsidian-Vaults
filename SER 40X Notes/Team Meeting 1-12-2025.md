@@ -10,4 +10,7 @@
 	- Scoring
 	- Scraper settings
 		- Layout in a JSON when it runs
+- Different file types
+	- JSON
+	- 
 # Research
