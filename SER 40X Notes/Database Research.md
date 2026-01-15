@@ -9,6 +9,9 @@
 - Documents map naturally to python dictionaries
 ## Data to Populate DB With
 - Municipality Profiles
-	- Scoring
-	- Scraper settings
-		- Layout in a JSON when it runs
+- Scoring
+- Scraper settings
+	- Layout in a JSON when it runs
+- Analysis Ready directory (Text Extraction Result)
+- Classifications.json in classifier
+- Generated Reports?
