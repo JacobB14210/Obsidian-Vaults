@@ -6,11 +6,6 @@
 		- MongoDB
 			- Look up design principles
 				- BASE
-	- Municipality Profiles
-	- Scoring
-	- Scraper settings
-		- Layout in a JSON when it runs
 - Different file types
 	- JSON
-	- 
-# Research
+See [[Database Research]] for chosen database
