@@ -15,7 +15,7 @@
 - Analysis Ready directory (Text Extraction Result)
 - Classifications.json in classifier
 - Generated Reports?
-# How to Install
+## How to Install
 - Install MongoDB for VS code if using vs code
 - Install MongoDB Community Server
 	- Install as a service
@@ -24,3 +24,5 @@
 - Install MongoDB Shell
 	- Lets you manage databases through the terminal
 - python -m pip install pymongo
+## MongoDB Architecture
+- MongoDB Server -> Databases -> Collections -> Documents
