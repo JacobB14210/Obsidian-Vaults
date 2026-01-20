@@ -15,3 +15,6 @@
 - Analysis Ready directory (Text Extraction Result)
 - Classifications.json in classifier
 - Generated Reports?
+# How to Install
+- install MongoDB for VS code if using vs code
+- python -m pip install pymongo
