@@ -18,5 +18,9 @@
 # How to Install
 - Install MongoDB for VS code if using vs code
 - Install MongoDB Community Server
-- 
+	- Install as a service
+	- Run as a network service
+	- Install MongoDB Compass
+- Install MongoDB Shell
+	- Lets you manage databases through the terminal
 - python -m pip install pymongo
