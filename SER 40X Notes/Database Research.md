@@ -16,5 +16,7 @@
 - Classifications.json in classifier
 - Generated Reports?
 # How to Install
-- install MongoDB for VS code if using vs code
+- Install MongoDB for VS code if using vs code
+- Install MongoDB Community Server
+- 
 - python -m pip install pymongo
