@@ -32,4 +32,14 @@
 	- Can do the same for collections
 - use {db}: Switch current database to {db}
 	- Can do the same for collections
-- 
+## MongoDB Python Syntax
+```python
+mydict = { "name": "John", "address": "Highway 37" }
+mycol.update_one(
+  { "name": mydict["name"]}, # Filter
+  # Key to look for when updating
+  { "$set": mydict}, # Update
+  # Will add any new data
+  upsert=True # Insert if key wasn't found
+)
+```
