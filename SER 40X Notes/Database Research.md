@@ -26,3 +26,10 @@
 - python -m pip install pymongo
 ## MongoDB Architecture
 - MongoDB Server -> Databases -> Collections -> Documents
+## MongoDB Shell Commands List
+- mongosh: Open connection to local MongoDB instance
+- show dbs: Show List of databases on the server
+	- Can do the same for collections
+- use {db}: Switch current database to {db}
+	- Can do the same for collections
+- 
