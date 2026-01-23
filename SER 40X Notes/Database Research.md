@@ -34,6 +34,17 @@
 	- Can do the same for collections
 ## MongoDB Python Syntax
 ```python
+import pymongo
+
+# Connect to MongoDB database
+myclient = pymongo.MongoClient("mongodb://localhost:27017")
+
+# Connect to specific database
+mydb = myclient["mydatabase"] # Database
+
+# Move to specific collection
+mycollection = mydb["customers"] # Collection
+
 mydict = { "name": "John", "address": "Highway 37" }
 mycol.update_one(
   { "name": mydict["name"]}, # Filter
