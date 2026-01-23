@@ -46,7 +46,7 @@ mydb = myclient["mydatabase"] # Database
 mycollection = mydb["customers"] # Collection
 
 mydict = { "name": "John", "address": "Highway 37" }
-mycol.update_one(
+mycollection.update_one(
   { "name": mydict["name"]}, # Filter
   # Key to look for when updating
   { "$set": mydict}, # Update
