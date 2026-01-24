@@ -16,7 +16,7 @@
 - Classifications.json in classifier
 - Generated Reports?
 ## How to Install
-- Install MongoDB for VS code if using vs code
+- Install "MongoDB for VS code" if using vs code
 - Install MongoDB Community Server
 	- Install as a service
 	- Run as a network service
