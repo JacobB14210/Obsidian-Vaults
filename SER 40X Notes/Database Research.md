@@ -13,7 +13,6 @@
 - Scraper settings
 	- Layout in a JSON when it runs
 - Analysis Ready directory (Text Extraction Result)
-- Classifications.json in classifier
 - Generated Reports?
 ## How to Install
 - Install "MongoDB for VS code" if using vs code
