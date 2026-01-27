@@ -9,10 +9,10 @@
 - Documents map naturally to python dictionaries
 ## Data to Populate DB With
 - Municipality Profiles
+- Analysis Ready directory (Text Extraction Result)
 - Scoring
 - Scraper settings
 	- Layout in a JSON when it runs
-- Analysis Ready directory (Text Extraction Result)
 - Generated Reports?
 ## How to Install
 - Install "MongoDB for VS code" if using vs code
