@@ -58,4 +58,4 @@
 - Food design
 - Interface design
 - Software design
-- 
+# Ways of Seeing
