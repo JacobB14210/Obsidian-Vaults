@@ -72,4 +72,47 @@
 		- Curious
 		- Innovative
 # The Design Process
-- 
+- Design process: Defined as a problem specific iterative method, engaged by a particular team f design collaborators to explore, understand and search for a resolution to a problematic situation and need
+- Personal knowledge system
+	- Stance guides tools guides experiences
+	- Experiences informs tools informs stance
+- Iterative design process
+	- Ideation: Identify real world problem
+	- Visualization: Ideas and solutions
+	- Prototyping: Test out ideas and evaluate
+	- Implementation: Produce, present, and implement tangible solutions to real world problems
+- Iterative design process framework
+	- Question - solve - test - reflect - refine
+- Fail quickly and often
+- Respect constraints
+	- Ability to identify and work within these constraints
+	- Each problem have there own unique constraints
+- Danger, the fallacy of originality
+	- Design is not about self expression
+	- Not dependent on originality
+	- Is self discipline and takes endless hours of dedicated work
+- Common design process faults
+	- Following you pre-conceptions versus solving problems
+	- Blindly devoted to your first creations
+	- Lack of self confidence
+	- Unwillingness to trust the process
+	- Unwilling to collaborate
+- Five dysfunctions of collaborative design team
+	- Absence of trust
+	- Fear of conflict
+	- Lack of passionate commitment
+	- Failure to embrace accountability
+	- Failure to pay attention to results
+## Two iterative Design Process Examples
+- IDEO's 5 step iterative design process
+	- observation
+	- Brainstorming
+	- Rapid prototyping
+	- Refining
+	- Implementation
+# Ways of Envisioning Information - Tools of Visual Literacy
+- Tools for visual literacy
+## Envisioning information in the age of endless choices
+- graphs
+## Tools of Envisioning Information
+- Symbols, Words and language
