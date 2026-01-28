@@ -59,3 +59,16 @@
 - Interface design
 - Software design
 # Ways of Seeing
+- "The question is not what you look at, but what you see"
+	- Henry David Thoreau
+- The normalcy of not really seeing our environment
+- Seeing is a discipline anyone can learn
+- To see is to think
+	- To really see your environment, you must go beyond your opinion
+	- Seeing is forgetting, the name of what one is looking at and eek to understand its inner nature
+	- Four different seeing
+		- Practical
+		- Aesthetic
+		- Curious
+		- Innovative
+- 
