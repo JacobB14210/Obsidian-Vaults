@@ -116,3 +116,13 @@
 - graphs
 ## Tools of Envisioning Information
 - Symbols, Words and language
+- Drawing
+	- Sketch
+	- Diagram
+	- Descriptive drawing
+- Photography: Freezing a moment of time
+	- Collage and Photomontage
+- Physical models
+- 4d modeling
+- Computer animations and simulations
+- 
