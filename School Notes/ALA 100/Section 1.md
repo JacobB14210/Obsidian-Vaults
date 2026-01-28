@@ -71,4 +71,5 @@
 		- Aesthetic
 		- Curious
 		- Innovative
+# The Design Process
 - 
