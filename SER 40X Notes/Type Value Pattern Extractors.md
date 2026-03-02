@@ -4,3 +4,9 @@
 	- renewal_fee
 	- permit_fee
 	- insurance_amount
+	- max_operating hours
+	- distance_requirement_meters
+	- zones
+	- parking_regulations
+	- health_inspection
+	- requirements
