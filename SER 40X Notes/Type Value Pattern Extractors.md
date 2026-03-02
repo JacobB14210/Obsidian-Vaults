@@ -1,0 +1,6 @@
+- Specific for food trucks (Could be more for other businesses)
+	- application_fee
+	- licence_fee
+	- renewal_fee
+	- permit_fee
+	- insurance_amount
