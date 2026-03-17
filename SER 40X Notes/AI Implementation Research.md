@@ -1,1 +1,3 @@
+- Need to scrape the content first
+	- Use text extraction or OCR
 - 
