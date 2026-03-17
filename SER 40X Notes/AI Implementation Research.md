@@ -1,3 +1,5 @@
 - Need to scrape the content first
 	- Use text extraction or OCR
+	- Might need to shorten extraction to make sure it's not too big
+		- Get rid of empty categories
 - 
