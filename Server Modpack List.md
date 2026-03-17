@@ -1,3 +1,42 @@
 - Farmer's delight
-- Mystical Agriculture?
-- Nature's Compass?
+- Mystical Agriculture
+- Nature's Compass
+- Explorer's Compass
+- Silent Gear and Productive Metalworks
+	- Productive Metalworks
+	- Silent Gear
+	- Silent Gear Metalworks
+	- Silent Lib
+	- Silent's Gems
+- Sophisticated Backpacks
+	- Sophisticated Backpacks Create Integration
+- Applied Energetics 2
+	- Applied Engergistics 2 Wireless Terminals
+	- AdvancedAE
+	- AE2 Import Export Card
+	- AE2 Network Analyser
+	- AE2: Crafting Tree
+	- AEInfinity Booster
+	- Epanded AE
+	- ExtendedAE
+- Pipez
+- Modular Routers
+- Hostile Neural Networks
+- Create
+	- Create Crafts & Additions
+	- Create: Aquatic Ambitions
+	- Create: Enchantment Industry
+	- Create: Hypertubes
+	- Sophisticated Backpacks Create Integration
+	- Sophisticated Storage Create Integration
+- Apothic Enchanting
+	- Apothic Attributes
+	- Apothic Spawners
+- Easy Villagers
+- Artifacts
+- Domestication innovation
+- Elytra slot
+- JEI
+	- AE2 JEI Integration
+	- Smithing Template Viewer for JEI/EMI
+	- 
