@@ -1,4 +1,4 @@
-# WBS Assignment
+# Overview of Requirements
 - Database
 	- Everyone besides admin (Sparky) should not be able to enter or view any of the spreadsheet in its raw form
 	- Non-admin functionality should look like a menu driven application
@@ -9,3 +9,28 @@
 		- View full ledger including balance
 		- Can not edit modify past entries
 		- Access to tenants phone numbers, address, email, due dates, late fee grace period
+- Authentication
+	- Admin or the support staff
+		- Prompt for any ledger items that need to be entered based on the date
+			- Example: new monthly charge for rent based on properties monthly rent anniversary
+		- Prompt to enter an entry for a late fee to apply if past due
+			- 3 to 5 days from the rent anniversary
+		- After prompts should be able to enter credit for rent
+- Reports
+	- Business analyst
+		- Generate reports of properties individually, grouped, or as a whole
+		- Should not have access to any of the customer data or any of the ledger entries
+			- Just rollup of number in the ledger
+- Legacy and Menu mode
+	- Admin
+		- Should be allowed to selected legacy or menu mode
+	- Legacy mode
+		- Should take them to the spreadsheet like currently and do nothing else
+	- Menu mode
+		- Warning for all the properties that have a lease expiring within 90 days
+		- Add/Close out a tenant from a property
+		- Add/Change roles for the application
+		- Add a new property to the application
+			- Each property is a separate spreadsheet)
+		- Preset the property groups for reports and access rights of the support staff
+# WBS Assignment
