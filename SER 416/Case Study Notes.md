@@ -34,3 +34,8 @@
 			- Each property is a separate spreadsheet)
 		- Preset the property groups for reports and access rights of the support staff
 # WBS Assignment
+- Sections to add
+	- Database
+	- Authentication
+	- Reports
+	- Legacy and Menu Mode
