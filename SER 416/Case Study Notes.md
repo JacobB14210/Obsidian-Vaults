@@ -35,6 +35,8 @@
 		- Preset the property groups for reports and access rights of the support staff
 # WBS Assignment
 - Sections to add
+	- Website design
+	- Home page design
 	- Database
 	- Authentication
 	- Reports
