@@ -1,1 +1,11 @@
 # WBS Assignment
+- Database
+	- Everyone besides admin (Sparky) should not be able to enter or view any of the spreadsheet in its raw form
+	- Non-admin functionality should look like a menu driven application
+	- Support staff should only have access to a subset of the rentals that are grouped and assigned by admin (Sparky)
+		- Add new entry with comment for rent received
+		- Enter charge for damages
+		- Give credit to the tenant for rent or purchases for property
+		- View full ledger including balance
+		- Can not edit modify past entries
+		- Access to tenants phone numbers, address, email, due dates, late fee grace period
