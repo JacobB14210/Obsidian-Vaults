@@ -1,2 +1,3 @@
-# Noted keywords
+# Oracle keywords
+- dieas
 - 
