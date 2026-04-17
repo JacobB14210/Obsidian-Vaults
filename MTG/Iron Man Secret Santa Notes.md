@@ -1,3 +1,3 @@
 # Oracle keywords
-- dieas
+- dies
 - 
