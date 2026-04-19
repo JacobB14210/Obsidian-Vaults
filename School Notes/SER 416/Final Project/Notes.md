@@ -9,7 +9,57 @@
 - Store data in the SQLite database to make it easy to implement in web based solution
 - Provide cost effective solution
 # High Level Requirements
-- 
+- Runnable on the command line and open with no GUI
+- Main Menu
+	- View records
+		- Be able to choose a record to view
+		- Numbered list of all records in the database
+		- Blank input app returns to the main menu
+		- Should be able to edit chosen record
+			- Goes through add new record process
+				- Goes through each entry
+				- Show current entry data
+				- Enter new value to change data
+				- Enter blank input to keep current entry data
+	- Add new records
+		- Provide list of questions for users to answer
+		- Three question categories
+			- Required: Cannot be left blank
+			- Follow up: Only required if another required question was answered
+			- Optional: Can be left blank, but still check for proper formatting if value is provided
+	- Import records
+		- Provide path to csv file
+		- Check if file exists and properly formatted
+		- Add records to database
+		- Show success or failure message
+	- Export records
+		- Create a csv file in a directory called output
+		- Name csv "Exported Records + {current time and date}.csv"
+		- Show success or failure message
+	- Quit
+		- Will close the app immediately
+- Questions:
+	- Required:
+		- Number of adults in the house hold?
+		- Number of children?
+		- Any pets?
+			- If so are there any dogs?
+		- Critical medications
+			- If so does it need refrigeration?
+		- Any one have special needs that would require extra assistance in an evacuation?
+		- Does the house have a large (bigger than for a grill) propane tank?
+		- Does the house have a natural gas connection?
+		- Address of the house
+	- Optional:
+		- Household contact phone number
+		- Household contact email
+		- Anyone have medical training?
+		- Do they know their neighbors?
+		- Do they have neighbors house key?
+		- CERT newsletter
+		- Can CERT use contact info for anything that is not directly related to a disaster?
+	- Add to database
+	- Unanswered questions or unneeded follow up questions should be left blank
 ## Phase 1
 - Would like a more secure web based solution so users can access the data from any device
 	- Utilize servers, database, security, and backup processes
