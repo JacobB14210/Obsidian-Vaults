@@ -63,4 +63,3 @@
 ## Phase 1
 - Would like a more secure web based solution so users can access the data from any device
 	- Utilize servers, database, security, and backup processes
-- 
