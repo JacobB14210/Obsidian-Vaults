@@ -3,6 +3,7 @@
 
 ```python
 import csv
+from datetime import datetime
 import os
 
 
@@ -24,6 +25,10 @@ def importCSV(filepath):
 
 
 def exportCSV(filePath, rows):
+	os.makedirs("output", exists_ok=True)
+	
+	filename = f"output/Exported Records + {datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
+	
     with open(filePath, mode='w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
 		
