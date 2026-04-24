@@ -37,10 +37,10 @@
 	- ==Just rollup of number in the ledger==
 - Admin
 	- ==Should be able to choose menu or legacy mode after authentication==
-	- Legacy mode
-		- Take them to spreadsheet like currently and do nothing else
-	- Menu mode
-		- Show warning for all properties that have lease expiring within 90 days
+		- Legacy mode
+			- Take them to spreadsheet like currently and do nothing else
+		- Menu mode
+			- Show warning for all properties that have lease expiring within 90 days
 	- ==Add/close out a tenant from a property==
 	- ==Add/change roles for the application==
 	- ==Add a new spreadsheet for a property==
