@@ -19,7 +19,7 @@
 		- Should look like a menu driven application
 - Support staff have access to a subset of rentals grouped and assigned by admin
 	- ==Functions==
-		- ==Add new entry==
+		- ==Add new entry: Log Action==
 			- ==Comment rent received==
 			- ==Enter charge for damages==
 			- ==Give credit to tenant for rent collect and/or materials purchased for the property by the tenant==
@@ -28,11 +28,11 @@
 	- Access to read the tenants phone numbers, property address and email address, due dates, and late fee grace period
 - After authentication
 	- For admin and support staff
-		- ==Prompt for any ledger items to be entered based on the date==
+		- ==Prompt for any ledger items to be entered based on the date: Log Action==
 			- ==Monthly charge for rent based on each properties monthly rent anniversary==
 			- ==Prompt user to enter an entry for a late fee to be applied if rent is past due==
 		- After all prompts property manager should be able to enter credit for rent
-- ==Business analyst generates reports==
+- ==Business analyst generates reports: Log Action==
 	- ==Should not have access to any customer data or ledger entries==
 	- ==Just rollup of number in the ledger==
 - Admin
