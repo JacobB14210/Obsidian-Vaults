@@ -20,9 +20,9 @@
 - Support staff have access to a subset of rentals grouped and assigned by admin
 	- ==Functions==
 		- ==Add new entry==
-		- ==Comment rent received==
-		- ==Enter charge for damages==
-		- ==Give credit to tenant for rent collect and/or materials purchased for the property by the tenant==
+			- ==Comment rent received==
+			- ==Enter charge for damages==
+			- ==Give credit to tenant for rent collect and/or materials purchased for the property by the tenant==
 	- Only view the full ledger including balance
 		- Shouldn't be able to modify any past entries
 	- Access to read the tenants phone numbers, property address and email address, due dates, and late fee grace period
