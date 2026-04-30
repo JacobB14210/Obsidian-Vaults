@@ -13,4 +13,13 @@
 - Academy Manufactor
 	- Create multiple treasure tokens
 - Hellkite Tyrant  - Win Con
-	- 
+	- Control twenty or more artifacts and win
+- Artifacts benefit from sacrifice
+	- Sewer-veillance Cam
+	- Prized Statue
+	- Cryogen Relic
+	- Esoteric Duplicator
+- Artifacts cost 1 less
+	- Cloud Key
+	- Enthusiastic Mechanaut
+	- Foundry Inspector
