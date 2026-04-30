@@ -3,7 +3,7 @@
 - Leaves battlefield
 - Put into a graveyard
 # Possible Combos
-- Cyberdrive Awakener
+- Cyberdrive Awakener - Win Con
 	- Swarm with clue, treasure, food, and other artifacts
 	- Only lasts one turn
 - Ravenous Robots
@@ -12,4 +12,5 @@
 	- Creature tokens can gain haste at the end of turn
 - Academy Manufactor
 	- Create multiple treasure tokens
-- 
+- Hellkite Tyrant  - Win Con
+	- 
