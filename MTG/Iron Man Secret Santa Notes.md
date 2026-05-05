@@ -68,6 +68,8 @@
 		- Get it back with 1/1 entering and sacrifice again
 	- Gleaming Geardrake
 		- Sacrifice an artifact to put a +1/+1
+	- Solemn Simulacrum
+		- Draw a card
 - Artifacts cost 1 less
 	- Cloud Key
 	- Enthusiastic Mechanaut
