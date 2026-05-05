@@ -13,7 +13,7 @@
 		- Also can't be blocked
 - Ravenous Robots
 	- Cast artifact spells
-	- Swarm with robot artifacts
+	- Swarm with 1/1 robot artifacts
 	- Creature tokens can gain haste at the end of turn
 - Academy Manufactor
 	- Create multiple treasure tokens
