@@ -8,6 +8,9 @@
 - Cyberdrive Awakener - Win Con
 	- Swarm with clue, treasure, food, and other artifacts
 	- Only lasts one turn
+- Kappa Cannoneer
+	- This creature and another artifact enters put a +1/+1
+		- Also can't be blocked
 - Ravenous Robots
 	- Cast artifact spells
 	- Swarm with robot artifacts
