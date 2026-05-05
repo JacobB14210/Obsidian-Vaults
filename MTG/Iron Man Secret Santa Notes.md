@@ -3,6 +3,8 @@
 - Leaves battlefield
 - Put into a graveyard
 # Possible Combos
+- Iron Man
+	- Sac a non-creature artifact token to tutor sol ring
 - Cyberdrive Awakener - Win Con
 	- Swarm with clue, treasure, food, and other artifacts
 	- Only lasts one turn
@@ -14,12 +16,29 @@
 	- Create multiple treasure tokens
 - Hellkite Tyrant  - Win Con
 	- Control twenty or more artifacts and win
+- Knowledge Seeker
+	- Draw card from clue tokens and put +1/+1
+- Improvised Arsenal
+	- +1/+0 for each artifact under control (Includes tokens)
+	- Can also create a copy for 4 + 1R
 - Artifacts benefit from sacrifice
 	- Sewer-veillance Cam
+		- Tap or Untap target creature
+		- Mana value = 1
 	- Prized Statue
+		- Create treasure token
+		- Mana value  = 2
 	- Cryogen Relic
+		- Draw a card
+		- Mana value = 2
 	- Esoteric Duplicator
+		- Pay 2 to create copy of sacrificed artifact
+		- Mana value = 3
+	- Knowledge Seeker
+		- Dies create a food token
+		- Mana value = 3
 - Artifacts cost 1 less
 	- Cloud Key
 	- Enthusiastic Mechanaut
 	- Foundry Inspector
+	- Etherium Sculptor
