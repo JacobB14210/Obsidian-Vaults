@@ -66,6 +66,8 @@
 	- Sword of the Meek
 		- Sacrifice for mana value 2
 		- Get it back with 1/1 entering and sacrifice again
+	- Gleaming Geardrake
+		- Sacrifice an artifact to put a +1/+1
 - Artifacts cost 1 less
 	- Cloud Key
 	- Enthusiastic Mechanaut
@@ -76,3 +78,6 @@
 - Emry, Lurker of the Loch
 - Junk Diver
 - Trash for Treasure
+## Token Generation
+- Clue tokens = 5
+- Food tokens = 2
