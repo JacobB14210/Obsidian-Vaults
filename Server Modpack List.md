@@ -10,14 +10,14 @@
 	- Silent's Gems
 - Sophisticated Backpacks
 	- Sophisticated Backpacks Create Integration
-- Applied Energetics 2
+- Applied Energitics 2
 	- Applied Engergistics 2 Wireless Terminals
 	- AdvancedAE
 	- AE2 Import Export Card
 	- AE2 Network Analyser
 	- AE2: Crafting Tree
 	- AEInfinity Booster
-	- Epanded AE
+	- Expanded AE
 	- ExtendedAE
 - Pipez
 - Modular Routers
@@ -27,7 +27,6 @@
 	- Create: Aquatic Ambitions
 	- Create: Enchantment Industry
 	- Create: Hypertubes
-	- Sophisticated Backpacks Create Integration
 	- Sophisticated Storage Create Integration
 - Apothic Enchanting
 	- Apothic Attributes
@@ -39,4 +38,5 @@
 - JEI
 	- AE2 JEI Integration
 	- Smithing Template Viewer for JEI/EMI
-	- 
+- TrashSlot
+- Just Enough Resources (JER)

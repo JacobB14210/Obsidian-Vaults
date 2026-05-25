@@ -1,3 +1,85 @@
-# Oracle keywords
+# Possible Oracle keywords
 - dies
-- 
+- Leaves battlefield
+- Put into a graveyard
+# Possible Combos
+## Specific Cards
+- Iron Man
+	- Sacrifice a non-creature artifact token to tutor sol ring
+- Cyberdrive Awakener - Win Con
+	- Swarm with clue, treasure, food, and other artifacts
+	- Only lasts one turn
+- Improvised Arsenal
+	- Equipped creature gets +1/+0 for each artifact you control
+	- Can also create a copy
+- Kappa Cannoneer
+	- This creature and another artifact enters put a +1/+1
+		- Also can't be blocked
+- Brudicald, Telchor Engineer
+	- Create 2/1 beginning of combat
+	- Swarm with tokens
+	- Each token can become copy of a chosen token
+		- Includes clue, treasure, and food
+- Ravenous Robots
+	- Cast artifact spells
+	- Swarm with 1/1 robot artifacts
+	- Creature tokens can gain haste at the end of turn
+- Mirrormind Crown
+	- Create copies of equipped creature when tokens are created
+- Mechanized Production - Win con
+	- Beginning of upkeep create a copy of enchanted artifact
+		- Control 8 or more with the same name you win
+- Academy Manufactor
+	- Create multiple treasure tokens
+- Hellkite Tyrant  - Win Con
+	- Control twenty or more artifacts and win
+- Knowledge Seeker
+	- Draw card from clue tokens and put +1/+1
+- Improvised Arsenal
+	- +1/+0 for each artifact under control (Includes tokens)
+	- Can also create a copy for 4 + 1R
+## Abilities
+- Artifacts benefit from sacrifice
+	- Terrian's Soulcleaver
+		- Sacrifice an artifact or creature token for +1/+1 on equipped creature
+	- Sewer-veillance Cam
+		- Tap or Untap target creature
+		- Mana value = 1
+	- Prized Statue
+		- Create treasure token
+		- Mana value  = 2
+	- Cryogen Relic
+		- Draw a card
+		- Mana value = 2
+	- Esoteric Duplicator
+		- Pay 2 to create copy of sacrificed artifact
+		- Mana value = 3
+	- Knowledge Seeker
+		- Create a food token
+		- Mana value = 3
+	- Ichor Wellspring
+		- Draw a card
+		- Mana value = 2
+	- Mouser Foundry
+		- Create a 1/1 colorless
+		- Mana value = 2
+	- Sword of the Meek
+		- Sacrifice for mana value 2
+		- Get it back with 1/1 entering and sacrifice again
+	- Gleaming Geardrake
+		- Sacrifice an artifact to put a +1/+1
+	- Solemn Simulacrum
+		- Draw a card
+- Artifacts cost 1 less
+	- Cloud Key
+	- Enthusiastic Mechanaut
+	- Foundry Inspector
+	- Etherium Sculptor
+## Interacts With Graveyard
+- Daretti, Scrap Savant
+- Emry, Lurker of the Loch
+- Junk Diver
+- Trash for Treasure
+## Token Generation
+- Clue tokens = 5
+- Food tokens = 2
