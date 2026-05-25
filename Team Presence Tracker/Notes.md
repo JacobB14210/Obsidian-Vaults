@@ -1,3 +1,4 @@
+# Requirements
 - Email employees out of office every morning
 - Employees can submit time off requests
 	- Place the approved time off for an employee on the calendar
@@ -20,3 +21,5 @@
 	- Vacation
 	- Personal
 	- Non Work
+# Permissions
+- 
