@@ -11,5 +11,8 @@ os.listdir("data") # list files in another dir
 
 path = os.path.join("data", "file.txt")
 
+Path("output").mkdir(exist_ok=True)
 
+BASE_DIR = Path(__file__).resolve().parent.parent  
+TEST_DOCS = BASE_DIR / "test_documents"
 ```
