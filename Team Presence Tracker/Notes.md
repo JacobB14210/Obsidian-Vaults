@@ -16,7 +16,7 @@
 	- Serialized
 - Employee ID?
 - Employee Type
-- Hours:
+- Hours: Null for hours not available for employee type
 	- Sick
 	- Vacation
 	- Personal
