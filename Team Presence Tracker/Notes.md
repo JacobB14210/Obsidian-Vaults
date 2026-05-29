@@ -11,9 +11,10 @@
 - Run the server at the district
 - Use MySQL database, easier for local implementation
 # Database Schema
-- Employee Name
+- Employee Username
 - Employee Password
 	- Serialized
+- email
 - Employee ID?
 - Employee Type
 - Hours: Null for hours not available for employee type
