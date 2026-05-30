@@ -14,7 +14,8 @@ function App() {
     return (
         <div>
             <h1>Users</h1>
-            {users.map(user => (
+            {users.map(user => ( // Loop through users
+	            // Create div for each user
                 <div key={user.id}>
                     {user.username} - {user.email}
                 </div>
