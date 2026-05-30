@@ -2,10 +2,10 @@
 import { useEffect, useState } from "react";
 
 function App() {
-    const [users, setUsers] = useState([]);
+    const [users, setUsers] = useState([]); // Set variable and function
 
     useEffect(() => {
-        fetch("http://localhost:5000/users")
+        fetch("http://localhost:5000/users") // sends a fetch for users
             .then(response => response.json())
             .then(data => setUsers(data));
     }, []);
