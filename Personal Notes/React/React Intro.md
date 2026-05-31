@@ -7,3 +7,17 @@ npm create vite@latest project_name*
 // To run React App
 npm run dev
 ```
+
+```jsx
+function App() {
+	const [users, setUsers] = useState([]); // Set variable
+	
+	return (
+        <div>
+	        
+        </div>
+    );
+}
+
+export default App
+```
